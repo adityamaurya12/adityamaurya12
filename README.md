@@ -48,16 +48,6 @@
 
 ## 📌 Featured Projects
 
-### 🚀 LEO Satellite Orbital Trajectory Monitoring & Conjunction Alert System
-**Tech Stack:** Python (Flask), Supabase, RK4, J2 Perturbation  
-
-- Built a TLE-based system for real-time LEO satellite tracking
-- Implemented RK4 + J2 orbital propagation for accurate modeling
-- Developed Flask backend for trajectory processing & collision alerts
-- Created web dashboard for live visualization and alerts
-
----
-
 ### 🍽 RasoiBot – AI-Powered Recipe Recommendation System
 **Tech Stack:** React.js, Spring Boot, MongoDB, Flask, Scikit-learn  
 
